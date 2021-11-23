@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.9.1)  9 SEP 2021 17:59
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.11.1)  23 NOV 2021 19:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **./resume.tex
 (./resume.tex
 LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-08-27> (./res.cls
+L3 programming layer <2021-10-18> (./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
 (/opt/texlive/texdir/texmf-dist/tex/latex/base/article.cls
@@ -54,10 +54,10 @@ rs
 (/opt/texlive/texdir/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-08-27 L3 programming layer (loader) 
+Package: expl3 2021-10-18 L3 programming layer (loader) 
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2021-08-04 L3 backend support: XeTeX
+File: l3backend-xetex.def 2021-10-18 L3 backend support: XeTeX
 
 (|extractbb --version)
 \c__kernel_sys_dvipdfmx_version_int=\count187
@@ -577,10 +577,10 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 
 [3] ) 
 Here is how much of TeX's memory you used:
- 10912 strings out of 476533
- 212633 string characters out of 5819773
- 587844 words of memory out of 5000000
- 31198 multiletter control sequences out of 15000+600000
+ 10915 strings out of 476473
+ 212738 string characters out of 5818254
+ 589633 words of memory out of 5000000
+ 31261 multiletter control sequences out of 15000+600000
  403886 words of font info for 40 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  73i,11n,81p,301b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
