@@ -3,7 +3,7 @@
 Steps to run:
 
 ```sh
-git clone https://github.com/acrlakshman/profileio
+git clone https://github.com/Abdullah1053/profileio
 
 cd profileio
 yarn && yarn start
@@ -68,4 +68,4 @@ yarn && yarn start
 
   _Though videos can also be included via `_profile/videos/` locally, it is recommended to host them on video hosting services like YouTube and attach them as shown above._
 
-[ProfileIO]: https://github.com/acrlakshman/profileio
+[ProfileIO]: https://github.com/Abdullah1053/profileio

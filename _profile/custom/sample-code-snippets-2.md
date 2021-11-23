@@ -1,6 +1,6 @@
-## [ProfileIO](https://github.com/acrlakshman/profileio)
+## [ProfileIO](https://github.com/Abdullah1053/profileio)
 
-* [Documentation](https://acrlakshman.github.com/profileio)
+* [Documentation](https://Abdullah1053.github.com/profileio)
 * Highlights:
   * Generate website from YAML based profile
   * Generate r&eacute;sum&eacute; with different themes
@@ -13,7 +13,7 @@
 ## Run locally
 
 ```sh
-git clone https://github.com/acrlakshman/profileio
+git clone https://github.com/Abdullah1053/profileio
 
 cd profileio
 yarn && yarn start
@@ -21,12 +21,12 @@ yarn && yarn start
 
 ---
 
-## [profileio-resume](https://github.com/acrlakshman/profileio-resume)
+## [profileio-resume](https://github.com/Abdullah1053/profileio-resume)
 
 How to use?
 
 ```sh
-go get github.com/acrlakshman/profileio-resume/profileio
+go get github.com/Abdullah1053/profileio-resume/profileio
 ```
 
 ```go
@@ -38,7 +38,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/acrlakshman/profileio-resume/profileio"
+	"github.com/Abdullah1053/profileio-resume/profileio"
 )
 
 func main() {
@@ -128,4 +128,4 @@ func commandExists(cmd string) bool {
 
   _Though videos can also be included via `_profile/videos/` locally, it is recommended to host them on video hosting platforms like YouTube, and attach them as shown above._
 
-[ProfileIO]: https://github.com/acrlakshman/profileio
+[ProfileIO]: https://github.com/Abdullah1053/profileio
