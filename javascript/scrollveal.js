@@ -48,6 +48,21 @@ ScrollReveal().reveal(".about-wrapper__info", {
   origin: window.innerWidth > 768 ? "left" : "top",
 });
 
+/* GitHub Section */
+ScrollReveal().reveal(".github-chart", {
+  ...defaultProps,
+  delay: 500,
+  origin: "bottom",
+});
+
+/* Skills Section */
+ScrollReveal().reveal(".skill-category", {
+  ...defaultProps,
+  delay: 400,
+  interval: 100,
+  origin: "bottom",
+});
+
 /* Projects Section */
 ScrollReveal().reveal(".project-wrapper__text", {
   ...defaultProps,
