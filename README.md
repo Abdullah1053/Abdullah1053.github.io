@@ -1,20 +1,59 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Abdullah Ademi | Software Engineer Portfolio
 
-# Run and deploy your AI Studio app
+A modern, high-performance portfolio website built with React, Tailwind CSS, and Framer Motion. This site showcases my expertise in full-stack development, mobile applications, and technical project management.
 
-This contains everything you need to run your app locally.
+## 🚀 Live Demo
+[View Live Portfolio](https://abdullah1053.github.io/)
 
-View your app in AI Studio: https://ai.studio/apps/7ab5a891-eca4-4392-b4b2-67d059750338
+## 🛠️ Tech Stack
 
-## Run Locally
+- **Frontend:** React 19, Tailwind CSS 4
+- **Animations:** Framer Motion
+- **Icons:** Lucide React
+- **Build Tool:** Vite
+- **Deployment:** GitHub Actions
 
-**Prerequisites:**  Node.js
+## 📂 Project Highlights
 
+- **Tammer Yemni Company:** Full-stack construction services platform built with Laravel and Vue.js.
+- **Store App:** Mobile service management application developed with Flutter and Firebase.
+- **Weather Application:** Real-time meteorological tracking app using OpenWeather API.
+- **Todo Application:** Productivity-focused task management system.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Development
+
+### Prerequisites
+- Node.js (v20 or higher)
+- npm
+
+### Installation
+```bash
+npm install
+```
+
+### Local Development
+```bash
+npm run dev
+```
+
+### Build for Production
+```bash
+npm run build
+```
+
+## 🚢 Deployment
+
+This project is configured for automatic deployment to **GitHub Pages** via GitHub Actions.
+
+1. Push changes to the `main` branch.
+2. The workflow in `.github/workflows/deploy.yml` will automatically build and deploy the site.
+3. Ensure **GitHub Actions** is selected as the source in your repository's **Settings > Pages**.
+
+## 📧 Contact
+
+- **Email:** [abdullah.mughni1999@gmail.com](mailto:abdullah.mughni1999@gmail.com)
+- **Phone:** +967 771 882 350
+- **GitHub:** [@Abdullah1053](https://github.com/Abdullah1053)
+
+---
+Built with ❤️ by Abdullah Ademi
